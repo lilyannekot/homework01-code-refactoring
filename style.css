@@ -51,8 +51,8 @@ p {
 }
 
 .hero {
-    height: 800px;
-    width: 100%;
+    height: 400px;
+    width: 100px;
     margin-bottom: 25px;
     background-image: url("digital-marketing-meeting.jpg");
     background-size: cover;
