@@ -77,7 +77,6 @@ p {
 
 .benefits {
     margin-right: 20px;
-    padding: 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -91,49 +90,20 @@ p {
     height: 150px;
 }
 
-.benefit-lead {
+/* Condensed css so all benefit text has the same properties */
+.benefit-text {
     margin-bottom: 5px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 5px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 5px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* Condensed css so all benefit headings are the same size */
+.benefit-text h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* Condensed css so all benefit images are the same size */
+.benefit-text img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
