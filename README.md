@@ -2,12 +2,25 @@
 
 ## Summary of Project
 
+The following project entailed refactoring HTML and CSS in order to improve accessibility standards for consumers as well as for developers editing the code in the future. 
+
 ## Technologies and Languages Used
 
 * HTML
 * CSS
 * Git
 * GitHub
+
+## Changes Made
+
+* Added alt tags to all imagery and icons
+* Condensed repetitive css to provide fewer lines of code
+* Changed selectors to be more specific to content displayed on page
+* Added a nire descriptive and clear title
+
+## Screenshot  of Project
+
+![HoriseonScreenshot] ()
 
 ## Author Links
 
