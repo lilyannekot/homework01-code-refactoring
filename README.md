@@ -2,7 +2,7 @@
 
 ## Summary of Project
 
-The following project entailed refactoring HTML and CSS in order to improve accessibility standards for consumers as well as for developers editing the code in the future. 
+The following project entailed refactoring HTML and CSS for a marketing agency, Horiseon, in order to improve accessibility standards for consumers as well as improve the readability of the code for developers. 
 
 ## Technologies and Languages Used
 
@@ -20,7 +20,7 @@ The following project entailed refactoring HTML and CSS in order to improve acce
 
 ## Screenshot  of Project
 
-![HoriseonScreenshot] ()
+![HoriseonScreenshot] (Screenshot.png)
 
 ## Author Links
 
