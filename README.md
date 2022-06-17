@@ -20,7 +20,7 @@ The following project entailed refactoring HTML and CSS for a marketing agency, 
 
 ## Screenshot  of Project
 
-![HoriseonScreenshot] (Screenshot.png)
+![HoriseonScreenshot](Screenshot.png)
 
 ## Author Links
 
